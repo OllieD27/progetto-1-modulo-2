@@ -1,8 +1,0 @@
-event_id,user_id,event_type,value,days_from_start,click_event,purchase_value,is_click,is_premium_client,invalid_day_flag,days_from_start_clean
-1,100,click,1.0,1.0,1.0,,True,False,False,1.0
-2,100,purchase,20.0,1.0,,20.0,False,False,False,1.0
-3,101,purchase,2000.0,2.0,,2000.0,False,True,False,2.0
-4,102,click,1.0,400.0,1.0,,True,False,True,1.5
-5,103,purchase,10.5,3.0,,10.5,False,False,False,3.0
-6,100,purchase,25.0,1.0,,25.0,False,False,False,1.0
-7,104,click,1.0,1.5,1.0,,True,False,False,1.5
